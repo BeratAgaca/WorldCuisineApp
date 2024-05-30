@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.beratagaca.worldcuisineapp.ui.fragment.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/homeToCuisine"
+            app:destination="@id/cuisineFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cuisineFragment"
+        android:name="com.beratagaca.worldcuisineapp.ui.fragment.CuisineFragment"
+        android:label="CuisineFragment"
+        tools:layout="@layout/fragment_cuisine">
+        <argument android:name="country"
+            app:argType="com.beratagaca.worldcuisineapp.data.entity.Countries" />
+        <action
+            android:id="@+id/action_cuisineFragment_to_recipeFragment"
+            app:destination="@id/recipeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/recipeFragment"
+        tools:layout="@layout/fragment_recipe"
+        android:name="com.beratagaca.worldcuisineapp.ui.fragment.RecipeFragment"
+        android:label="RecipeFragment" >
+        <argument android:name="foodObject"
+            app:argType="com.beratagaca.worldcuisineapp.data.entity.Foods" />
+
+    </fragment>
+</navigation>

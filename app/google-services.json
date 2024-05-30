@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832319061561",
+    "project_id": "worldcuisineapp",
+    "storage_bucket": "worldcuisineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832319061561:android:9ee59392ea8406d22d57e8",
+        "android_client_info": {
+          "package_name": "com.beratagaca.worldcuisineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH0Z-1Cvzrk1g1btV9ZYoAJSeoLin2D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

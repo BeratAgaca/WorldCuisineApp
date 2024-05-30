@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_color">#FFB00020</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#3A3737</color>
+    <color name="softbase">#B14848</color>
+    <color name="softpink">#E8C8C8</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">World Cuisine App</string>
+    <string name="gcm_defaultSenderId" translatable="false">832319061561</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjH0Z-1Cvzrk1g1btV9ZYoAJSeoLin2D4</string>
+    <string name="google_app_id" translatable="false">1:832319061561:android:9ee59392ea8406d22d57e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjH0Z-1Cvzrk1g1btV9ZYoAJSeoLin2D4</string>
+    <string name="google_storage_bucket" translatable="false">worldcuisineapp.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">worldcuisineapp</string>
+    <style name="Base.Theme.WorldCuisineApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:statusBarColor">@color/grey</item>
+        <item name="android:icon">@color/black</item>
+    </style>
+    <style name="Theme.WorldCuisineApp" parent="Base.Theme.WorldCuisineApp"/>
+</resources>

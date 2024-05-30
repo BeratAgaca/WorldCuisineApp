@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#3A3737</color>
+    <style name="Base.Theme.WorldCuisineApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+        
+    </style>
+</resources>

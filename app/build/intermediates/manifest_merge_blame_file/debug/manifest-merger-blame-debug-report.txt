@@ -1,0 +1,236 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.beratagaca.worldcuisineapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="21" /> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+15-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:22-76
+16
+17    <permission
+17-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.beratagaca.worldcuisineapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.beratagaca.worldcuisineapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:6:5-29:19
+24        android:name="com.beratagaca.worldcuisineapp.di.HiltApplication"
+24-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:8:9-43
+25        android:allowBackup="true"
+25-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:11:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] C:\Users\berat\.gradle\caches\transforms-3\902841677803f152d6295b861d1aef4b\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+27        android:dataExtractionRules="@xml/data_extraction_rules"
+27-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:12:9-65
+28        android:debuggable="true"
+29        android:enableOnBackInvokedCallback="true"
+29-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:9:9-51
+30        android:extractNativeLibs="false"
+31        android:fullBackupContent="@xml/backup_rules"
+31-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:13:9-54
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:15:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:14:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:16:9-54
+35        android:supportsRtl="true"
+35-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:17:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.WorldCuisineApp"
+37-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:18:9-53
+38        android:usesCleartextTraffic="true" >
+38-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:10:9-44
+39        <activity
+39-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:20:9-28:20
+40            android:name="com.beratagaca.worldcuisineapp.MainActivity"
+40-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:21:13-41
+41            android:exported="true" >
+41-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:22:13-36
+42            <intent-filter>
+42-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:23:13-27:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:24:17-69
+43-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:24:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:26:17-77
+45-->C:\Users\berat\AndroidStudioProjects\CuisineApp-master\app\src\main\AndroidManifest.xml:26:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <service
+49-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+50            android:name="com.google.firebase.components.ComponentDiscoveryService"
+50-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:10:13-84
+51            android:directBootAware="true"
+51-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+52            android:exported="false" >
+52-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:11:13-37
+53            <meta-data
+53-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:12:13-14:85
+54                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
+54-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:13:17-129
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\498a8988b8e49e06d5b5c2e6b976b6e4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:14:17-82
+56            <meta-data
+56-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+57                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+57-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+60                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+60-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\berat\.gradle\caches\transforms-3\3b7df47d723c5692a978b4a1cc473287\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\30c3cfa26720cbb751e2a0c98ce6b5b9\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+63                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+63-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\30c3cfa26720cbb751e2a0c98ce6b5b9\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\30c3cfa26720cbb751e2a0c98ce6b5b9\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+66                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+66-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+68        </service>
+69        <service
+69-->[androidx.room:room-runtime:2.6.1] C:\Users\berat\.gradle\caches\transforms-3\60784184147d210e4c85ca30030d2345\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+70            android:name="androidx.room.MultiInstanceInvalidationService"
+70-->[androidx.room:room-runtime:2.6.1] C:\Users\berat\.gradle\caches\transforms-3\60784184147d210e4c85ca30030d2345\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+71            android:directBootAware="true"
+71-->[androidx.room:room-runtime:2.6.1] C:\Users\berat\.gradle\caches\transforms-3\60784184147d210e4c85ca30030d2345\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+72            android:exported="false" />
+72-->[androidx.room:room-runtime:2.6.1] C:\Users\berat\.gradle\caches\transforms-3\60784184147d210e4c85ca30030d2345\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\berat\.gradle\caches\transforms-3\dadf1e226cd5218a4db4be80679a7277\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\berat\.gradle\caches\transforms-3\dadf1e226cd5218a4db4be80679a7277\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\berat\.gradle\caches\transforms-3\dadf1e226cd5218a4db4be80679a7277\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\berat\.gradle\caches\transforms-3\dadf1e226cd5218a4db4be80679a7277\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+78
+79        <provider
+79-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+80            android:name="com.google.firebase.provider.FirebaseInitProvider"
+80-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+81            android:authorities="com.beratagaca.worldcuisineapp.firebaseinitprovider"
+81-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+82            android:directBootAware="true"
+82-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+83            android:exported="false"
+83-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+84            android:initOrder="100" />
+84-->[com.google.firebase:firebase-common:21.0.0] C:\Users\berat\.gradle\caches\transforms-3\0dc75e71f7f3f052cdc80058770f743b\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+85
+86        <meta-data
+86-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\berat\.gradle\caches\transforms-3\e4bf17fa2308c84a054f21a9104bb972\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+87            android:name="com.google.android.gms.version"
+87-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\berat\.gradle\caches\transforms-3\e4bf17fa2308c84a054f21a9104bb972\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\berat\.gradle\caches\transforms-3\e4bf17fa2308c84a054f21a9104bb972\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+89
+90        <provider
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+91            android:name="androidx.startup.InitializationProvider"
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+92            android:authorities="com.beratagaca.worldcuisineapp.androidx-startup"
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+93            android:exported="false" >
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+94            <meta-data
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+95                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+96                android:value="androidx.startup" />
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\berat\.gradle\caches\transforms-3\c8c72f42d131595af949dc9dd478c094\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+97            <meta-data
+97-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\berat\.gradle\caches\transforms-3\135a4baafece8d1d55ccd1d52d206224\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+98-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\berat\.gradle\caches\transforms-3\135a4baafece8d1d55ccd1d52d206224\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+99                android:value="androidx.startup" />
+99-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\berat\.gradle\caches\transforms-3\135a4baafece8d1d55ccd1d52d206224\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+100            <meta-data
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+102                android:value="androidx.startup" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+103        </provider>
+104
+105        <uses-library
+105-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+106            android:name="androidx.window.extensions"
+106-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+107            android:required="false" />
+107-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+108        <uses-library
+108-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+109            android:name="androidx.window.sidecar"
+109-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+110            android:required="false" />
+110-->[androidx.window:window:1.0.0] C:\Users\berat\.gradle\caches\transforms-3\fb6240fd80acbf8dc2816c10f5c18c4e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+111
+112        <receiver
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+113            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+114            android:directBootAware="false"
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+115            android:enabled="true"
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+116            android:exported="true"
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+117            android:permission="android.permission.DUMP" >
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+119                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+120            </intent-filter>
+121            <intent-filter>
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+122                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+123            </intent-filter>
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+125                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+128                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\berat\.gradle\caches\transforms-3\b335a72723e92a32cd85af39d554a9ad\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+129            </intent-filter>
+130        </receiver>
+131    </application>
+132
+133</manifest>

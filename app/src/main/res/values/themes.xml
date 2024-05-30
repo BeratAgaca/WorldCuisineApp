@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WorldCuisineApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/grey</item>
+        <item name="android:icon">@color/black</item>
+    </style>
+
+    <style name="Theme.WorldCuisineApp" parent="Base.Theme.WorldCuisineApp" />
+</resources>

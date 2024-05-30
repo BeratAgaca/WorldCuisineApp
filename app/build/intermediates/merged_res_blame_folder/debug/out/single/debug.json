@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_card_cuisine_design.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_cuisine_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_tteokbokki.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\tteokbokki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_brazil.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\brazil.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_italy.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\italy.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_fragment_cuisine.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_cuisine.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_feijoada.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\feijoada.jpg"
+    },
+    {
+        "merged": "com.beratagaca.worldcuisineapp-merged_res-59:/layout_fragment_recipe.xml.flat",
+        "source": "com.beratagaca.worldcuisineapp-main-61:/layout/fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\navigation_main_activity_navigation.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\navigation\\main_activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_manti.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\manti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_turkish_kebab.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\turkish_kebab.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_card_recipe_design.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_recipe_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_fragment_recipe.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_mexico.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\mexico.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_kebap.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\kebap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_italian_pizza.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\italian_pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_southkorea.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\southkorea.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_mexican_tacos.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\mexican_tacos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_spain.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\spain.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_img.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\layout_card_country_design.xml.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_country_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_paella.jpg.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\paella.jpg"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-merged_res-59:\\drawable_turkey.png.flat",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\drawable\\turkey.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\card_recipe_design.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_recipe_design.xml"
+    },
+    {
+        "merged": "com.beratagaca.worldcuisineapp-mergeDebugResources-58:/layout/fragment_recipe.xml",
+        "source": "com.beratagaca.worldcuisineapp-main-61:/layout/fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\fragment_recipe.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\fragment_cuisine.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_cuisine.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\card_cuisine_design.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_cuisine_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-mergeDebugResources-58:\\layout\\card_country_design.xml",
+        "source": "C:\\Users\\berat\\.gradle\\daemon\\8.0\\com.beratagaca.worldcuisineapp-main-61:\\layout\\card_country_design.xml"
+    }
+]
